@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded engine binary + models (fetched by scripts/setup_engine.ps1)
+tools/
+
+# Runtime working directories
+temp/
+output/
